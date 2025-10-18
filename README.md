@@ -1,6 +1,6 @@
 Clone the repository:- git clone https://github.com/xaixrj/TimeSheet.git 
 
-cd timesheet
+cd TimeSheet
 
 Install dependencies:- npm install
 
